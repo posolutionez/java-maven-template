@@ -1,2 +1,2 @@
 # java-maven-template
-simple template for a java application
+a simple bolilerplate project for a java/maven application
